@@ -1,0 +1,30 @@
+.current-weather {
+    text-align: center;
+    background: linear-gradient(to right, #6DD5FA, #FF758C);
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+    margin-bottom: 20px;
+  }
+  
+  .current-weather h2 {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .current-weather h3 {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .current-weather h1 {
+    margin: 0;
+    padding: 0;
+    font-size: 4em;
+  }
+  
+  .current-weather h4 {
+    margin: 0;
+    padding: 0;
+  }
+  

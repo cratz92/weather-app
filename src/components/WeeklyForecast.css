@@ -1,0 +1,14 @@
+.weekly-forecast {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  /* Make sure the cards have a consistent width */
+  .forecast-card {
+    flex: 1;
+    min-width: 100px;
+    max-width: calc(100% / 3 - 20px);
+  }
+  
